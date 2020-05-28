@@ -23,3 +23,5 @@
   ```
 
 With this in place, `tide` will function just as expected with a codebase targeted to `Deno` as it does with a normal `TypeScript` project.
+
+![Working deno and emacs integration screenshot](https://user-images.githubusercontent.com/635512/83182847-41535c00-a127-11ea-83ca-ffb4dcdccf23.png)
