@@ -1,0 +1,30 @@
+{
+  "name": "deno-emacs-test",
+  "version": "1.0.0",
+  "description": "Deno + Emacs demo project",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "deno",
+    "emacs",
+    "typescript"
+  ],
+  "author": "Mudit Ameta <zeusdeux@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.9.3",
+    "typescript-deno-plugin": "^1.30.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeusdeux/deno-emacs-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zeusdeux/deno-emacs-test/issues"
+  },
+  "homepage": "https://github.com/zeusdeux/deno-emacs-test#readme"
+}
